@@ -13,7 +13,7 @@ This repository contains React components tailored for testing creative tags uti
 **Usage:**
 To utilize this project:
 
-1. Clone the repository: `git clone https://github.com/MubarekHussen/AdUnitTester`
+1. Clone the repository: `git clone https://github.com/MubarekHussen/AdUnit-Tester`
 2. Navigate to the project directory: `cd AdUnitTester`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
